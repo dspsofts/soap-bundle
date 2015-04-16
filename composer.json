@@ -1,0 +1,12 @@
+{
+    "name": "dspsofts/soap-bundle",
+    "description": "SOAP webservices for symfony2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pierre Feyssaguet",
+            "email": "pfeyssaguet@gmail.com"
+        }
+    ],
+    "require": {}
+}
